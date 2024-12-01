@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Clima App",
+    "search": {
+      "placeholder": "Buscar una ciudad...",
+      "useLocation": "Usar mi ubicación"
+    }
+  },
+  "weather": {
+    "feelsLike": "Sensación térmica",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "pressure": "Presión",
+    "uv": "Índice UV",
+    "forecast": "Pronóstico",
+    "hourly": "Por hora",
+    "daily": "Próximos días",
+    "temperature": "Temperatura"
+  },
+  "settings": {
+    "title": "Configuración",
+    "theme": {
+      "title": "Tema",
+      "description": "Elige tu tema preferido",
+      "light": "Claro",
+      "dark": "Oscuro"
+    },
+    "temperature": {
+      "title": "Unidad de temperatura",
+      "description": "Selecciona tu unidad preferida"
+    },
+    "language": {
+      "title": "Idioma",
+      "description": "Elige tu idioma"
+    },
+    "favorites": {
+      "title": "Ubicaciones favoritas",
+      "empty": "No hay ubicaciones favoritas"
+    },
+    "logout": {
+      "button": "Cerrar Sesión",
+      "success": "Sesión cerrada exitosamente",
+      "error": "Error al cerrar sesión"
+    }
+  },
+  "share": {
+    "title": "Compartir clima",
+    "currentWeather": "El clima en",
+    "copied": "¡Copiado al portapapeles!",
+    "native": "Compartir usando el sistema"
+  },
+  "alerts": {
+    "addedToFavorites": "¡Ubicación añadida a favoritos!",
+    "removedFromFavorites": "Ubicación eliminada de favoritos",
+    "locationError": "Error al obtener la ubicación",
+    "shareError": "Error al compartir",
+    "shareSuccess": "¡Compartido con éxito!"
+  }
+}

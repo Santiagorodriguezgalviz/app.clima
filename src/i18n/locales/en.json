@@ -1,0 +1,59 @@
+{
+  "app": {
+    "title": "Weather App",
+    "search": {
+      "placeholder": "Search for a city...",
+      "useLocation": "Use my location"
+    }
+  },
+  "weather": {
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "pressure": "Pressure",
+    "uv": "UV Index",
+    "forecast": "Forecast",
+    "hourly": "Hourly",
+    "daily": "Next days",
+    "temperature": "Temperature"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": {
+      "title": "Theme",
+      "description": "Choose your preferred theme",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "temperature": {
+      "title": "Temperature unit",
+      "description": "Select your preferred unit"
+    },
+    "language": {
+      "title": "Language",
+      "description": "Choose your language"
+    },
+    "favorites": {
+      "title": "Favorite locations",
+      "empty": "No favorite locations"
+    },
+    "logout": {
+      "button": "Sign Out",
+      "success": "Successfully signed out",
+      "error": "Error signing out"
+    }
+  },
+  "share": {
+    "title": "Share weather",
+    "currentWeather": "Current weather in",
+    "copied": "Copied to clipboard!",
+    "native": "Share using system"
+  },
+  "alerts": {
+    "addedToFavorites": "Location added to favorites!",
+    "removedFromFavorites": "Location removed from favorites",
+    "locationError": "Error getting location",
+    "shareError": "Error sharing",
+    "shareSuccess": "Shared successfully!"
+  }
+}
