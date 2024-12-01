@@ -1,4 +1,5 @@
-# Weather App
+# Climatic
+
 
 This is a weather application built with modern web technologies.
 
